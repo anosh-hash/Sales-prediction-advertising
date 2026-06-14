@@ -1,6 +1,6 @@
 # 📊 Sales Prediction using Advertising Data
 
-> **Internship Task 4** — Predicting future sales from TV, Radio & Newspaper advertising spend using Machine Learning regression models.
+> Predicting future sales from TV, Radio & Newspaper advertising spend using Machine Learning regression models.
 
 ---
 
