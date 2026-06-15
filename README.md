@@ -128,7 +128,7 @@ python sales_prediction.py
 
 ## 👨‍💻 Author
 
-Anosh S
+Anoshka Roshini S
 
 Machine Learning & Data Analytics Enthusiast
 
